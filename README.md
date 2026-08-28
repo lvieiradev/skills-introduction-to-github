@@ -19,6 +19,18 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 
+## Projeto simples para iniciantes (PT-BR)
+
+Para praticar os conceitos principais do GitHub em um fluxo real de colaboração:
+
+1. Faça um **fork** deste repositório para sua conta.
+2. No fork, crie a branch **develop** a partir da branch principal (**master** ou **main**).
+3. Faça uma mudança simples (por exemplo, editar um arquivo `.md`) e crie um commit.
+4. Abra um **Pull Request (PR)** comparando `develop` -> `master` (ou `main`).
+5. Revise e faça o merge do PR.
+
+Com esse passo a passo, você entende na prática como funcionam fork, branch, master/main, develop e PR.
+
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
